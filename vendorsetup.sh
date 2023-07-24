@@ -1,4 +1,4 @@
-git clone https://github.com/SuperiorOS-Devices/vendor_xiaomi_violet vendor/xiaomi/violet
+git clone https://github.com/athizz2005/vendor_xiaomi_violet -b dolby vendor/xiaomi/violet
 git clone --depth 1 https://github.com/Project-poison/android_kernel_xiaomi_violet.git -b 13 kernel/xiaomi/violet
 rm -rf hardware/qcom-caf/sm8150/audio
 rm -rf hardware/qcom-caf/sm8150/media 
