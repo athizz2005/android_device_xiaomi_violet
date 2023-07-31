@@ -18,17 +18,6 @@ USE_MOTO_CALCULATOR := true
 
 # MiuiCamera
 $(call inherit-product, vendor/MiuiCamera/config.mk)
-TARGET_SUPPORTS_BLUR := true
-USE_MOTO_CLOCK := true
-SYSTEM_OPTIMIZE_JAVA := true
-SYSTEMUI_OPTIMIZE_JAVA := true
-BUILD_WITH_GAPPS := true
-USE_QUICKPIC := true
-USE_MOTO_CALCULATOR := true
-USE_DUCKDUCKGO := false
-
-# Maintainer
-ro.spos.maintainer=AtharvaSwamy
 
 # Device identifier. This must come after all inclusions.
 PRODUCT_NAME := superior_violet
