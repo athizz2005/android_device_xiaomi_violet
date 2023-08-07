@@ -11,4 +11,4 @@ git clone --depth 1 https://gitlab.com/kibria5/vendor_xiaomi-firmware_violet.git
 git clone --depth 1 https://gitlab.com/kibria5/prebuilts_clang_host_linux-x86_clang-r487747c.git -b master prebuilts/clang/host/linux-x86/clang-r487747c
 git clone https://gitlab.com/NRanjan-17/android_vendor_MiuiCamera vendor/MiuiCamera
 git clone https://github.com/tiann/KernelSU.git -b main kernel/xiaomi/violet/KernelSU
-git clone --depth=1 https://gitlab.com/Joker-V2/prebuilts_clang_host_linux-x86_clang-r487747 prebuilts/clang/host/linux-x86/clang-r487747
+git clone --depth=1 https://gitlab.com/Joker-V2/prebuilts_clang_host_linux-x86_clang-r487747 prebuilts/clang/host/linux-x86/clang-r498229
